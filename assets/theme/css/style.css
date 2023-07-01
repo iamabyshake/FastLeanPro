@@ -888,9 +888,8 @@ blockquote {
   }
 
   .row {
-    margin: 0px;
-	
- 	
+    margin-left: -16px;
+    margin-right: -16px;
   }
   .row > [class*=col] {
     padding-left: 16px;
